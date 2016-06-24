@@ -1,10 +1,12 @@
 # Python Currency Converter
 
+This is just a project I did in Python that I thought was worth not throwing!
+
 * Uses Tkinter and Requests 
 * Uses [fixer.io](http://api.fixer.io) for currency conversions
 * Originally intended for people that ride kangaroos to school
 
-This is just a project I did in Python that I thought was worth not throwing!
+Do whatever you want with it. I've learnt a few things with Tkinter through this.
 
 ![python currency converter tkinter requests][logo]
 
